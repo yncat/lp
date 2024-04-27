@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Yukio Nozawa
-description: Portfolio of Yukio Nozawa, a programmer / game designer / sound designer.
-logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
-logo_dark: "/images/logo-dark.svg"
+title: Yukio cat Nozawa
+description: Portfolio of Yukio Nozawa (also known as cat), a programmer / game designer / sound designer.
+logo: "/images/logo.gif" # You can add own logo. For example "/images/logo.svg".
+logo_dark: "/images/logo-dark.gif"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -91,8 +91,8 @@ author_section:
   enable: true
   author_section_title: "ようこそ！野澤幸男(別名 cat)のホームページです。"
   author_section_description: 人生の目標は、猫のように自由に生きることです。
-  author_section_image: "/images/01.jpg"
-  author_section_image_alt: 正面から撮影した本人
+  author_section_image: "/images/author.jpg"
+  author_section_image_alt: 正面から撮影した本人、後ろに植物がある
   author_section_button_text: お気軽にご連絡ください！
   author_section_button_link: "/contact/"
 
