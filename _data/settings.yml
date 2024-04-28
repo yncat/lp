@@ -17,8 +17,10 @@ menu_settings:
       url: "/projects/"
     - title: "Posts"
       url: "/posts/"
-    - title: "Resources"
-      url: "/resources/"
+    - title: "websites"
+      url: "/websites/"
+    - title: "Media"
+      url: "/media/"
     - title: "About Me"
       url: "/about/"
 
@@ -58,8 +60,24 @@ featured:
 # Projects Section Settings
 projects:
   enable: true
-  projects_title: 最近の活動
-  projects_description:
+  projects_title: 活動
+  projects_description: これまで行った活動を紹介します。
+
+
+#-------------------------------
+# websites Section Settings
+media:
+  enable: true
+  media_title: 関連サイト
+  media_description: 私が関わっている関連サイトを紹介します。
+
+
+#-------------------------------
+# media Section Settings
+media:
+  enable: true
+  media_title: 記事掲載情報
+  media_description: 過去に掲載された記事を紹介します
 
 
 #-------------------------------
@@ -112,7 +130,7 @@ footer_menu__settings:
 
 # Social Links
 social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com/nyanchan2013"}
 - {icon: "fa-brands fa-github", name: "GitHub", link: "https://github.com/yncat/"}
 # Other icons can be found at https://fontawesome.com/icons
 
