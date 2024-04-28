@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseurl: "lp" # the subpath of your site, e.g. /blog
+baseurl: "/lp" # the subpath of your site, e.g. /blog
 url: "yncat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 

@@ -18,9 +18,7 @@ menu_settings:
     - title: "Posts"
       url: "/posts/"
     - title: "Resources"
-      submenu:
-      - url: "/posts/sns"
-        title: "Social media"
+      url: "/resources/"
     - title: "About Me"
       url: "/about/"
 
@@ -28,21 +26,21 @@ menu_settings:
 cta_button:
   enable: true
   cta_button_link: '/contact/'
-  cta_button_text: Get in touch
+  cta_button_text: お問い合わせ
 
 
 #-------------------------------
 # Author Settings
 author:
   author_name: "Yukio Nozawa"
-  author_avatar: "/images/01-1.jpg"
+  author_avatar: "images/author.jpg"
 
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero_title: ソフトウェアエンジニア / ゲームデザイナー / サウンドデザイナー
+  hero_title: A software engineer, game designer and sound designer
   hero_description: 自由奔放な全盲のコード書き。それ以外にもだいたいなんでもやります。
 
 # Hero Logos
@@ -60,7 +58,7 @@ featured:
 # Projects Section Settings
 projects:
   enable: true
-  projects_title: Recent Work
+  projects_title: 最近の活動
   projects_description:
 
 
@@ -82,7 +80,7 @@ faq:
 blog:
   enable: true
   blog_intro: What’s new?
-  blog_title: Latest from blog
+  blog_title: 最新ブログ投稿
 
 
 #-------------------------------
@@ -91,8 +89,8 @@ author_section:
   enable: true
   author_section_title: "ようこそ！野澤幸男(別名 cat)のホームページです。"
   author_section_description: 人生の目標は、猫のように自由に生きることです。
-  author_section_image: "/images/author.jpg"
-  author_section_image_alt: 正面から撮影した本人、後ろに植物がある
+  author_section_image: "images/cat_headphones.gif"
+  author_section_image_alt: 猫がヘッドフォンを付けて音楽に乗っている
   author_section_button_text: お気軽にご連絡ください！
   author_section_button_link: "/contact/"
 
@@ -114,7 +112,6 @@ footer_menu__settings:
 
 # Social Links
 social:
-- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
 - {icon: "fa-brands fa-github", name: "GitHub", link: "https://github.com/yncat/"}
 # Other icons can be found at https://fontawesome.com/icons
