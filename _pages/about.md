@@ -1,32 +1,38 @@
 ---
 layout: page
 title: About Me
-description: I am an expert user experience strategist and mobile developer, driven by a relentless pursuit of innovation and excellence. My journey in the tech world has been shaped by a commitment to creating solutions that not only meet but exceed user expectations.
+description: cat や 猫 という名前で活動している全盲のクリエイター / コーダーです。フルスタックエンジニアとして仕事をしながら、気の向くままにいろんな活動を行っています。
 permalink: /about/
-image: '/images/01.jpg'
 ---
-As a user experience strategist, I specialize in understanding the intricacies of user behavior and translating them into intuitive and enjoyable digital interfaces. My approach is rooted in empathy, ensuring that every design decision considers the end-user's perspective.
 
-## Mobile development maven
+## 基本情報
 
-In the realm of mobile development, I thrive on turning ideas into functional and aesthetically pleasing applications. From concept to deployment, I am dedicated to delivering mobile solutions that seamlessly integrate with users' lives.
+氏名: 野澤 幸男
+別名: 猫, cat, yncat
+生誕: 1997/09/02
+居住地: 東京都
+活動歴: 2008 - 現在
 
-> To design is to communicate clearly by whatever means you can control or master - Milton Glaser
+## 略歴
 
-In the realm of mobile development, I thrive on turning ideas into functional and aesthetically pleasing applications. From concept to deployment, I am dedicated to delivering mobile solutions that seamlessly integrate with users' lives.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/01-2.jpg" loading="lazy" alt="Author">
-    <img src="/images/01-3.jpg" loading="lazy" alt="Author">
-  </div>
-  <em>Photo by <a href="https://www.pexels.com/@david-garrison-1128051/" target="_blank">David Garrison</a> on <a href="https://www.pexels.com/" target="_blank">Pexels</a></em>
-</div>
-
-I believe in the power of technology to enrich lives. Whether it's through creating captivating mobile apps or designing user-centric interfaces, I aim to make a positive impact on how people engage with the digital world.
-
-## Let's Create Together
-
-Whether you're looking to enhance the user experience of your digital platform or bring a groundbreaking mobile app to life, I'm here to collaborate and innovate. Let's embark on a journey to transform ideas into exceptional digital experiences.
-
-Feel free to reach out, and let's turn your vision into a digital reality!
+* 2005年: 小学生に上がったときにPCを買ってもらう。本人は興味なし。たぶんプラレールとかやってた。
+* 2006年: ちょっとずつPCを触って見るようになる。
+* 2007年: PCでゲームができることを知ってはまる、もっとゲームをやりたいからという理由でインターネットやプログラミングにこぎ出す。
+* 2008年: 勝手にホームページを作って作品を公開し始める。
+* 2010年: 初となる長編RPGを作る。
+* 2012年: いくつかの作品を英語版として全世界に公開する。
+* 2013年: 筑波大学附属視覚特別支援学校に進学。
+* 2013年: これまでで最大規模となる長編RPGを完成させて公開。その後、高校進学を機に、アクティブなゲーム開発から離れる。
+* 2014年: 同級生と組んで、学内のいろんな仕組みをデジタル化して遊ぶ。ちなみに、何年か経ってから、一緒に Act Laboratory を設立することになる。
+* 2015年: 2年前にリリースした長編RPGの完全英語版が完成。9000行ぐらい翻訳しなければいけなかったので、超絶大変だった。
+* 2016年: 慶應義塾大学環境情報学部に進学。ゲームを作るサークルに入って、音楽や効果音を作っていた。
+* 2017年: 現在の合同会社ブラインドライターズに入り、文字起こしの仕事をしながら、作業を便利にする周辺ツールを作ったりしていた。
+* 2018年: IBM Japan が主催する Access Blue Program インターンシッププログラムに参加。
+* 2018年: DDD Projectによる「オーディオゲームセンター」のメンバーに加わり、東京ゲームショウに初出店を果たす。高校受験がいやすぎてストレス発散のために作った「Screaming Strike」が、5年の歳月を経てTGSで大公開されることに。
+* 2019年: CSUN Assistive Technology Conference 2019 に参加するため、初の渡米。
+* 2019年: オーディオゲームセンターとして、東京ゲームショウ2019に出店。「耳元を飛び回る蚊をスプレー型コントローラーでやっつける」という、最強リアル体験を生み出す。
+* 2020年: ウェブアクセシビリティに関する卒業論文を発表。
+* 2020年: freeeカブシキガイシャに新卒入社。プロダクト共通の認証認可基板の開発に割り当てられる。
+* 2022年: freeeの認証認可基板を、 Ruby On Rails から Go のマイクロサービスにフルリプレイスするプロジェクトを完遂。自分が入る前からやってたので、4年ほどかかっていた超大規模案件であった。
+* 2022年: freeeカード unlimited のチームに移動。その後、様々な新機能開発やプロダクト改善を行う。
+* 2024年: カブシキガイシャmitsukiが提供している同行援護支援アプリの開発スタッフとして活動。
