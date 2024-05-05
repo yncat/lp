@@ -107,7 +107,7 @@ author_section:
   enable: true
   author_section_title: "ようこそ！野澤幸男(別名 cat)のホームページです。"
   author_section_description: 人生の目標は、猫のように自由に生きることです。
-  author_section_image: "images/cat_headphones.gif"
+  author_section_image: "/images/cat_headphones.gif"
   author_section_image_alt: 猫がヘッドフォンを付けて音楽に乗っている
   author_section_button_text: お気軽にご連絡ください！
   author_section_button_link: "contact/"
