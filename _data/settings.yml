@@ -125,6 +125,10 @@ footer_menu__settings:
       url: '/projects/'
     - title: 'Posts'
       url: '/posts/'
+    - title: "websites"
+      url: "/websites/"
+    - title: "Media"
+      url: "/media/"
     - url: '/about/'
       title: 'About Me'
 
