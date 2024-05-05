@@ -36,16 +36,6 @@
                 {% if project.featured == true %}
                 <article class="project col-4 col-d-6 col-t-12 splide__slide">
                   <div class="project__content">
-                    <a href="{{ project.url | relative_url }}" class="project__image">
-                      {% if project.image and project.video_embed %}
-                      <div class="video-icon">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-                          <polygon points="40,30 70,50 40,70"></polygon>
-                        </svg>
-                      </div>
-                      {% endif %}
-                      <img class="lazy" data-src="{{ project.image | relative_url }}" alt="{{ project.title }}">
-                    </a>
                     <div class="project__info">
                       {% if project.label %}
                       <div class="project__label">{{ project.label }}</div>
