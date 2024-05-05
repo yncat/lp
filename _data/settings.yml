@@ -27,8 +27,8 @@ menu_settings:
 # Call to action button
 cta_button:
   enable: true
-  cta_button_link: '/contact/'
-  cta_button_text: お問い合わせ
+  cta_button_link: 'contact/'
+  cta_button_text: Contact
 
 
 #-------------------------------
@@ -110,7 +110,7 @@ author_section:
   author_section_image: "images/cat_headphones.gif"
   author_section_image_alt: 猫がヘッドフォンを付けて音楽に乗っている
   author_section_button_text: お気軽にご連絡ください！
-  author_section_button_link: "/contact/"
+  author_section_button_link: "contact/"
 
 
 #-------------------------------
@@ -144,7 +144,7 @@ mailchimp:
 #-------------------------------
 # Contact Settings
 contact:
-  email: lp@nyanchangames.com # Add your form_id
+  email: mnqewlpb
   description: Yukio cat Nozawa へのお問い合わせはこちらからどうぞ！
 
 
