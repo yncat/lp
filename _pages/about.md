@@ -7,6 +7,8 @@ permalink: /about/
 
 ## 基本情報
 
+![正面から撮影した本人。後ろには植物がある]({{site.baseurl}}/images/author.jpg#wide)
+
 氏名: 野澤 幸男
 
 別名: 猫, cat, yncat
