@@ -18,8 +18,8 @@ featured:
 
 ## 関連サイト
 
-[AudioWizards Music Competition | myTrueSound](https://www.mytruesound.com/audiowizards-music)
+[AudioWizards Music Competition - myTrueSound](https://www.mytruesound.com/audiowizards-music)
 
-[AudioWizards | steam](https://store.steampowered.com/app/1215350/AudioWizards/?l=japanese)
+[AudioWizards - steam](https://store.steampowered.com/app/1215350/AudioWizards/?l=japanese)
 
-[AudioWizards Soundtrack | Steam](https://store.steampowered.com/app/1218880/AudioWizards_Soundtrack/)
+[AudioWizards Soundtrack - Steam](https://store.steampowered.com/app/1218880/AudioWizards_Soundtrack/)
