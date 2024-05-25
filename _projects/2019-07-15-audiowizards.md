@@ -3,6 +3,7 @@ title: Audiowizards 楽曲提供
 date: 2019-07-15
 label: サウンドデザイン
 image: /images/cat_headphones.gif
+image_alt: ヘッドフォンを付けて音楽に乗っている猫
 featured:
 ---
 

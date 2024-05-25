@@ -15,7 +15,7 @@ layout: default
     {% else %}
     {% if page.image %}
     <div class="project-image">
-      <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+      <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}">
     </div>
     {% endif %}
     {% endif %}
