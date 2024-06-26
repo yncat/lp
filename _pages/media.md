@@ -5,6 +5,10 @@ description: これまでにメディア掲載された記事を紹介します�
 permalink: /media/
 ---
 
+## 2024年
+
+[クレジットカード起点でお客さまのペインを解決──金融開発チームの挑戦とスタイル - freeeのdevチーム](https://www.wantedly.com/companies/freee/post_articles/899110)
+
 ## 2023年
 
 [Nintendo Switch『カブトクワガタ』がもたらしたゲームアクセシビリティの”革命” - 【公式】ReadSpeaker](https://readspeaker.jp/news/2023-08-25/)
@@ -12,6 +16,8 @@ permalink: /media/
 [「AUDIO AR GAME MAKER」でオーディオゲームをつくって遊ぼう！ワークショップ体験記 - ストーリー - DIVERSITY IN THE ARTS TODAY](https://www.diversity-in-the-arts.jp/stories/41505)
 
 ## 2022年
+
+[これってもしかして……認証基盤が入れ替わってる〜？ - freee Developers Hub](https://developers.freee.co.jp/entry/replace-of-authentication)
 
 [本人確認ができない？「規約に同意」できない？ 視覚障害者が仮想通貨をやってみてわかった、新たな技術とアクセシビリティの課題とは - Spotlite](https://spot-lite.jp/kasotsuka/)
 
