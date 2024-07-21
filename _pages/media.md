@@ -7,6 +7,8 @@ permalink: /media/
 
 ## 2024年
 
+[東京・渋谷に新感覚のゲームセンター「オーディオゲームセンター + CCBT」 - DIVERSITY IN THE ARTS TODAY](https://www.diversity-in-the-arts.jp/news/46017)
+
 [クレジットカード起点でお客さまのペインを解決──金融開発チームの挑戦とスタイル - freeeのdevチーム](https://www.wantedly.com/companies/freee/post_articles/899110)
 
 ## 2023年
