@@ -7,6 +7,8 @@ permalink: /media/
 
 ## 2024年
 
+[視覚障害者の同行援護をもっと簡単に。全盲のエンジニア2名が手がける「おでかけくん」開発秘話 - Spotlite](https://spot-lite.jp/odekakekun-interview/)
+
 [東京・渋谷に新感覚のゲームセンター「オーディオゲームセンター + CCBT」 - DIVERSITY IN THE ARTS TODAY](https://www.diversity-in-the-arts.jp/news/46017)
 
 [クレジットカード起点でお客さまのペインを解決──金融開発チームの挑戦とスタイル - freeeのdevチーム](https://www.wantedly.com/companies/freee/post_articles/899110)
