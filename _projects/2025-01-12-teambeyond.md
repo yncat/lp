@@ -35,5 +35,5 @@ featured:
 最終的に、一人でやるのはむずすぎるから、3人でグーとチョキとパーを分担すればいいんじゃねと思いついた人がいました。その様子がこちらです。
 
 <video controls width="250">
-  <source src="/{{site.baseurl}}/images/kikion.jpeg" type="video/mp4" />
+  <source src="{{site.baseurl}}/images/atodashijanken.mp4" type="video/mp4" />
 </video>
