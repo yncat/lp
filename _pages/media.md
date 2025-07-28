@@ -5,6 +5,12 @@ description: これまでにメディア掲載された記事を紹介します�
 permalink: /media/
 ---
 
+## 2025年
+
+[「スイッチ2」テキスト読み上げ機能が初期設定時に使えない…全盲ゲーマーが感じた“つまずき”と任天堂への訴え - Game*Spark - 国内・海外ゲーム情報サイト](https://www.gamespark.jp/article/2025/07/05/154732.html)
+
+[Nintendo Switch 2の初期設定時に音声読み上げを利用できないことに関して任天堂に送られた要望の全文が公開される - GIGAZINE](https://gigazine.net/news/20250704-nintendo-switch-2-accessibility/)
+
 ## 2024年
 
 [視覚障害者の同行援護をもっと簡単に。全盲のエンジニア2名が手がける「おでかけくん」開発秘話 - Spotlite](https://spot-lite.jp/odekakekun-interview/)
