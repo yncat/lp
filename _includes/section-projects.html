@@ -6,10 +6,17 @@
 
       <div class="section__info">
         <div class="section__head">
+          {% if page.lang == 'en' and site.data.settings.projects.projects_title_en %}
+          <h2 class="section__title">{{ site.data.settings.projects.projects_title_en }}</h2>
+          <a class="section__link" href="{{ '/en/projects/' | relative_url }}">View All <i class="fa-solid fa-chevron-right"></i></a>
+          {% else %}
           <h2 class="section__title">{{ site.data.settings.projects.projects_title }}</h2>
           <a class="section__link" href="{{ '/projects/' | relative_url }}">全部見る <i class="fa-solid fa-chevron-right"></i></a>
+          {% endif %}
         </div>
-        {% if site.data.settings.projects.projects_description %}
+        {% if page.lang == 'en' and site.data.settings.projects.projects_description_en %}
+        <p class="section__description">{{ site.data.settings.projects.projects_description_en }}</p>
+        {% elsif site.data.settings.projects.projects_description %}
         <p class="section__description">{{ site.data.settings.projects.projects_description }}</p>
         {% endif %}
       </div>

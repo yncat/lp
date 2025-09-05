@@ -25,7 +25,7 @@
               {% for item in site.data.settings.menu_settings.menu_items %}
               {% if item.submenu %}
               <li class="nav__item dropdown">
-                <span class="nav__link dropdown-toggle">{{ item.title }} <i class="fa-solid fa-chevron-down arrow-down"></i></span>
+                <span class="nav__link dropdown-toggle">{% if page.lang == 'en' and item.title_en %}{{ item.title_en }}{% else %}{{ item.title }}{% endif %} <i class="fa-solid fa-chevron-down arrow-down"></i></span>
                 <div class="dropdown-menu">
                 {% for submenu-item in item.submenu %}
                   <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
@@ -34,7 +34,11 @@
               </li>
               {% else %}
               <li class="nav__item">
-                <a href="{{ item.url | relative_url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{ item.title }}</a>
+                {% if page.lang == 'en' %}
+                  <a href="{{ item.url_en }}" class="nav__link{% if page.url == item.url_en %} active-link{% endif %}">{{ item.title_en | default: item.title }}</a>
+                {% else %}
+                  <a href="{{ item.url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{ item.title }}</a>
+                {% endif %}
               </li>
               {% endif %}
               {% endfor %}
@@ -42,6 +46,19 @@
           </div>
 
           <div class="nav-button">
+            <div class="language-switch">
+              {% if page.lang == 'en' %}
+                <a href="{{ page.url | replace: '/en/', '/' | replace: '/en', '/' }}" class="language-link">日本語</a>
+              {% else %}
+                {% assign en_url = page.url %}
+                {% if page.url == '/' %}
+                  {% assign en_url = '/en/' %}
+                {% else %}
+                  {% assign en_url = '/en' | append: page.url %}
+                {% endif %}
+                <a href="{{ en_url }}" class="language-link">English</a>
+              {% endif %}
+            </div>
             {% if site.data.settings.color_scheme == "auto" %}
             <div class="toggle-theme">
               <div class="toggle-moon" title="ダークモードに変更" role="button" aria-label="ダークモードに変更">
