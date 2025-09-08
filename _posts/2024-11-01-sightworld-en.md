@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Gave "Life With NVDA" Lecture at Sight World
 description: I had the opportunity to speak at "Life With NVDA" at the annual comprehensive event for visually impaired people, "Sight World".
 date: 2024-07-28

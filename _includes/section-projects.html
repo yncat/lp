@@ -26,6 +26,11 @@
       {% assign displayed_projects = 0 %}
 
       {% for project in sorted %}
+        {% if page.lang == 'en' and project.lang != 'en' %}
+          {% continue %}
+        {% elsif page.lang != 'en' and project.lang == 'en' %}
+          {% continue %}
+        {% endif %}
         {% unless project.featured == true %}
         {% assign displayed_projects = displayed_projects | plus: 1 %}
         <article class="project col col-4 col-d-6 col-t-12">

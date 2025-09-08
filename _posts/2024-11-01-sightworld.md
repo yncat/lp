@@ -1,4 +1,5 @@
 ---
+lang: ja
 title: サイトワールドでの「Life With NVDA」講演を行いました
 description: 毎年開催されている視覚障害者向け総合イベント、「サイトワールド」にて、 Life With NVDA という講演で登壇の機会をいただきました。
 date: 2024-07-28
