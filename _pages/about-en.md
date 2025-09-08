@@ -28,7 +28,7 @@ Active since: 2008 - Present
 * 2008: Started creating websites on my own and publishing my works.
 * 2010: Created my first full-length RPG.
 * 2012: Released several works in English for worldwide distribution.
-* 2013: Enrolled in University of Tsukuba School for the Visually Impaired.
+* 2013: Enrolled in "Special Needs Education School for the Visually Impaired, University of Tsukuba" (sooo long name in English...).
 * 2013: Completed and released the largest full-length RPG to date. Then stepped away from active game development upon entering high school.
 * 2014: Teamed up with classmates to digitize various school systems for fun. Years later, I would establish Act Laboratory with the same classmate.
 * 2015: Completed the full English version of the long RPG I released two years prior. It was extremely challenging as I had to translate about 9,000 lines.
