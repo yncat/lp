@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Audio Game Center + CCBT "The Future of Sound Technology and Audio Games" Lecture
 date: 2024-09-01
 label: Game

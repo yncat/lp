@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Sony Park Exhibition "AUDIO GAME CENTER +"
 date: 2021-06-26
 label: Development, Game

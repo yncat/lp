@@ -1,4 +1,5 @@
 ---
+lang: ja
 title: Audiowizards 楽曲提供
 date: 2019-07-15
 label: サウンドデザイン

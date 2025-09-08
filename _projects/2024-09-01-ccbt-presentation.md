@@ -1,4 +1,5 @@
 ---
+lang: ja
 title: Audio Game Center + CCBT 「サウンドテクノロジーとオーディオゲームの未来」 にて講演を行いました
 date: 2024-09-01
 label: ゲーム

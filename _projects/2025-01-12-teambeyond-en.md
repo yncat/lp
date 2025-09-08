@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Tokyo eSports Festa 2025
 date: 2025-01-12
 label: Game
