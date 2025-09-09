@@ -33,7 +33,7 @@ Active since: 2008 - Present
 * 2014: Teamed up with classmates to digitize various school systems for fun. Years later, I would establish Act Laboratory with the same classmate.
 * 2015: Completed the full English version of the long RPG I released two years prior. It was extremely challenging as I had to translate about 9,000 lines.
 * 2016: Enrolled in Keio University Faculty of Environment and Information Studies. Joined a game development club where I created music and sound effects.
-* 2017: Joined what is now Blind Writers LLC, doing transcription work while creating peripheral tools to make the work more convenient.
+* 2017: Joined what is now Rise & Play Inc., doing transcription work while creating peripheral tools to make the work more convenient.
 * 2018: Participated in the Access Blue internship program hosted by IBM Japan.
 * 2018: Joined the "Audio Game Center" project by DDD Project and made our debut at Tokyo Game Show. "Screaming Strike," which I created as stress relief because I hated high school entrance exams, was finally showcased at TGS after 5 years.
 * 2019: Traveled to the US for the first time to attend CSUN Assistive Technology Conference 2019.
@@ -42,7 +42,7 @@ Active since: 2008 - Present
 * 2020: Joined freee K. K. as a new graduate. Was assigned to develop shared authentication and authorization infrastructure for products.
 * 2021: Held the exhibition "Audio Game Center +" at Ginza Sony Park as Audio Game Center.
 * 2022: Completed a project to fully replace freee's authentication and authorization infrastructure from Ruby On Rails to Go microservices. This was a massive project that had been ongoing for about 4 years since before I joined.
-* 2022: Transferred to the freee Card unlimited team. Subsequently worked on various new feature development and product improvements.
+* 2022: Transferred to the freee Card unlimited team. Subsequently designed and released 3D Secure version 2.0 authentication, virtual card issuance features, and other functionalities.
 * 2023: Exhibited at BitSummit in Kyoto as Audio Game Center.
 * 2024: While continuing at freee, also worked as a development staff member for a mobility assistance app provided by mitsuki Corporation.
 * 2024: Held the exhibition "Audio Game Center + CCBT" at CCBT in Shibuya. Appeared at related events including hackathons and talk shows.
