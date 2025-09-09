@@ -20,8 +20,8 @@ To commemorate the adoption of my music, they specially sent me a custom T-shirt
 
 ## Related Sites
 
-[AudioWizards Music Competition - myTrueSound](https://www.mytruesound.com/audiowizards-music)
-
-[AudioWizards - Steam](https://store.steampowered.com/app/1215350/AudioWizards/?l=japanese)
-
-[AudioWizards Soundtrack - Steam](https://store.steampowered.com/app/1218880/AudioWizards_Soundtrack/)
+| Original Title | Translated Title |
+|---|---|
+| [AudioWizards Music Competition - myTrueSound](https://www.mytruesound.com/audiowizards-music) | AudioWizards Music Competition - myTrueSound |
+| [AudioWizards - steam](https://store.steampowered.com/app/1215350/AudioWizards/?l=japanese) | AudioWizards - Steam |
+| [AudioWizards Soundtrack - Steam](https://store.steampowered.com/app/1218880/AudioWizards_Soundtrack/) | AudioWizards Soundtrack - Steam |

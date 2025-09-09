@@ -29,4 +29,6 @@ A storytelling horror game called "Where the Ghosts Are" was unveiled, where par
 
 ## Related Sites
 
-The program has already ended, but I'll include the [official site](https://www.sonypark.com/ginza/032/) for reference.
+| Original Title | Translated Title |
+|---|---|
+| [公式サイト](https://www.sonypark.com/ginza/032/) | Official Site |
