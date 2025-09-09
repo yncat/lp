@@ -18,19 +18,19 @@ First, two games I created.
 
 "Screaming Strike" is a game where you listen to the footsteps of approaching enemies, judge their direction, and strike them. Many of you are probably familiar with the original version. This time, the version that was exhibited at Tokyo Game Show was revived for display.
 
-"Delayed Rock-Paper-Scissors" is a game I created in 2009 that was exhibited almost exactly as it was originally. While some features like bonus sounds from the original were removed to optimize it for exhibition, the game system is completely the same. You play delayed rock-paper-scissors to the rhythm and keep winning. That's all there is to it. But despite being just that simple, everyone got completely hooked and it received great reviews.
+"Atodashi Janken (Delayed Rock-Paper-Scissors)" is a game I created in 2009 that was exhibited almost exactly as it was originally. While some features like bonus sounds from the original were removed to optimize it for exhibition, the game system is completely the same. You play delayed rock-paper-scissors to the rhythm and keep winning. That's all there is to it. But despite being just that simple, everyone got completely hooked and it received great reviews.
 
-Finally, we selected a game called "Sound Recognition" that was created at last year's Audio Game Center hackathon. It's a quiz game where you distinguish between similar but different sounds, such as pouring cold water vs. hot water, and biting into tonkatsu vs. karaage. Thanks to the development team for readily agreeing to the exhibition!
+Finally, we selected a game called "Kikion (Sound Recognition)" that was created at last year's Audio Game Center hackathon. It's a quiz game where you distinguish between similar but different sounds, such as pouring cold water vs. hot water, and biting into tonkatsu vs. karaage. Thanks to the development team for readily agreeing to the exhibition!
 
 ## Photo & Video Gallery
 
 There are no photos of Screaming Strike. Sorry about that.
 
-For Sound Recognition, there was no audio coming from the speakers so I couldn't quite tell what was happening, but it seemed like everyone was playing with great concentration.
+For Kikion (Sound Recognition), there was no audio coming from the speakers so I couldn't quite tell what was happening, but it seemed like everyone was playing with great concentration.
 
-![Back view of two people playing Sound Recognition. The headphones split into two, so they can think about the same problem together. An iPad screen is visible showing "Question!"]({{site.baseurl}}/images/kikion.jpeg#wide)
+![Back view of two people playing Kikion (Sound Recognition). The headphones split into two, so they can think about the same problem together. An iPad screen is visible showing "Question!"]({{site.baseurl}}/images/kikion.jpeg#wide)
 
-For Delayed Rock-Paper-Scissors, first-time players find it too difficult and most score almost 0 points, but as they gradually get used to it, their scores steadily climb.
+For Atodashi Janken (Delayed Rock-Paper-Scissors), first-time players find it too difficult and most score almost 0 points, but as they gradually get used to it, their scores steadily climb.
 
 At first, I thought "Oh no, this is too difficult" and considered quietly adjusting it, but it turned out this unreasonableness & eSports nature was actually well-received, so it remained popular until the end.
 
