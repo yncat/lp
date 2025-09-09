@@ -1,6 +1,6 @@
 ---
 lang: ja
-title: Goと歩むキャリアを考える Go-lang Career Bar 登壇
+title: Goと歩むキャリアを考える Go-lang Career Bar に登壇しました
 date: 2024-01-31
 label: Development
 image: /images/cats_in_a_bar.png
