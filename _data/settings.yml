@@ -51,7 +51,7 @@ cta_button:
 # Author Settings
 author:
   author_name: "Yukio Nozawa"
-  author_avatar: "images/author.jpg"
+  author_avatar: "/images/author.jpg"
 
 
 #-------------------------------
