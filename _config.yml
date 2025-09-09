@@ -3,6 +3,11 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yncat.net" # the base hostname & protocol for your site, e.g. http://example.com
 
+#-------------------------------
+# Language Settings
+languages: ["ja", "en"]
+default_lang: "ja"
+
 
 #-------------------------------
 # Build Settings
@@ -35,21 +40,42 @@ defaults:
       path: ""
     values:
       layout: "default"
+      lang: "ja"
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
+      lang: "ja"
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      lang: "ja"
   - scope:
       path: ""
       type: "projects"
     values:
       layout: "project"
+      lang: "ja"
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      permalink: "/:name/"
+  - scope:
+      path: "_pages/*-en.md"
+      type: "pages"  
+    values:
+      permalink: "/en/:name/"
+      lang: "en"
+  - scope:
+      path: "_posts/*-en.md"
+      type: "posts"
+    values:
+      permalink: "/en/posts/:slug/"
+      lang: "en"
 
 
 sass:

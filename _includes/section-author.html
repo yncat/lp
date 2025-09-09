@@ -8,18 +8,28 @@
 
           {% if site.data.settings.author_section.author_section_image %}
           <div class="author__image">
+            {% if page.lang == 'en' and site.data.settings.author_section.author_section_image_alt_en %}
+            <img class="lazy" data-src="{{ site.data.settings.author_section.author_section_image }}" alt="{{ site.data.settings.author_section.author_section_image_alt_en }}">
+            {% else %}
             <img class="lazy" data-src="{{ site.data.settings.author_section.author_section_image }}" alt="{{ site.data.settings.author_section.author_section_image_alt }}">
+            {% endif %}
           </div>
           {% endif %}
 
           <div class="author__content">
-            {% if site.data.settings.author_section.author_section_title %}
+            {% if page.lang == 'en' and site.data.settings.author_section.author_section_title_en %}
+            <h2 class="author__title">{{ site.data.settings.author_section.author_section_title_en }}</h2>
+            {% elsif site.data.settings.author_section.author_section_title %}
             <h2 class="author__title">{{ site.data.settings.author_section.author_section_title }}</h2>
             {% endif %}
-            {% if site.data.settings.author_section.author_section_description %}
+            {% if page.lang == 'en' and site.data.settings.author_section.author_section_description_en %}
+            <p class="author__description">{{ site.data.settings.author_section.author_section_description_en }}</p>
+            {% elsif site.data.settings.author_section.author_section_description %}
             <p class="author__description">{{ site.data.settings.author_section.author_section_description }}</p>
             {% endif %}
-            {% if site.data.settings.author_section.author_section_button_text %}
+            {% if page.lang == 'en' and site.data.settings.author_section.author_section_button_text_en %}
+            <a href="{{ site.data.settings.author_section.author_section_button_link_en }}" class="author__button button">{{ site.data.settings.author_section.author_section_button_text_en }}</a>
+            {% elsif site.data.settings.author_section.author_section_button_text %}
             <a href="{{ site.data.settings.author_section.author_section_button_link }}" class="author__button button">{{ site.data.settings.author_section.author_section_button_text }}</a>
             {% endif %}
           </div>

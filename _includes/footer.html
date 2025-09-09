@@ -26,7 +26,11 @@
                 <ul class="footer__navigation__list list-reset">
                   {% for item in site.data.settings.footer_menu__settings.menu__items %}
                   <li class="footer__navigation__item">
-                    <a href="{{ item.url | relative_url }}" class="footer__navigation__link">{{ item.title }}</a>
+                    {% if page.lang == 'en' %}
+                      <a href="{{ item.url_en }}" class="footer__navigation__link">{{ item.title_en | default: item.title }}</a>
+                    {% else %}
+                      <a href="{{ item.url }}" class="footer__navigation__link">{{ item.title }}</a>
+                    {% endif %}
                   </li>
                   {% endfor %}
                 </ul>

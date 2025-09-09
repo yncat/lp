@@ -25,7 +25,7 @@
               {% for item in site.data.settings.menu_settings.menu_items %}
               {% if item.submenu %}
               <li class="nav__item dropdown">
-                <span class="nav__link dropdown-toggle">{{ item.title }} <i class="fa-solid fa-chevron-down arrow-down"></i></span>
+                <span class="nav__link dropdown-toggle">{% if page.lang == 'en' and item.title_en %}{{ item.title_en }}{% else %}{{ item.title }}{% endif %} <i class="fa-solid fa-chevron-down arrow-down"></i></span>
                 <div class="dropdown-menu">
                 {% for submenu-item in item.submenu %}
                   <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
@@ -34,7 +34,11 @@
               </li>
               {% else %}
               <li class="nav__item">
-                <a href="{{ item.url | relative_url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{ item.title }}</a>
+                {% if page.lang == 'en' %}
+                  <a href="{{ item.url_en }}" class="nav__link{% if page.url == item.url_en %} active-link{% endif %}">{{ item.title_en | default: item.title }}</a>
+                {% else %}
+                  <a href="{{ item.url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{ item.title }}</a>
+                {% endif %}
               </li>
               {% endif %}
               {% endfor %}
@@ -42,15 +46,28 @@
           </div>
 
           <div class="nav-button">
+            <div class="language-switch">
+              {% if page.lang == 'en' %}
+                <a href="{{ page.url | replace: '/en/', '/' | replace: '/en', '/' }}" class="language-link">日本語</a>
+              {% else %}
+                {% assign en_url = page.url %}
+                {% if page.url == '/' %}
+                  {% assign en_url = '/en/' %}
+                {% else %}
+                  {% assign en_url = '/en' | append: page.url %}
+                {% endif %}
+                <a href="{{ en_url }}" class="language-link">English</a>
+              {% endif %}
+            </div>
             {% if site.data.settings.color_scheme == "auto" %}
             <div class="toggle-theme">
-              <div class="toggle-moon" title="ダークモードに変更" role="button" aria-label="ダークモードに変更">
+              <div class="toggle-moon" title="{% if page.lang == 'en' %}Switch to dark mode{% else %}ダークモードに変更{% endif %}" role="button" aria-label="{% if page.lang == 'en' %}Switch to dark mode{% else %}ダークモードに変更{% endif %}">
                 <svg width="15" height="15" viewBox="0 0 1472 1536" xmlns="http://www.w3.org/2000/svg">
                   <path fill="currentColor" d="M1464 1090q-94 203-283 323.5T768 1536q-157-1-299-62t-244.5-163.5T61 1066T0 768q0-205 97.5-378t267-276.5T738 2q43-2 62 38q17 42-16 72q-176 164-176 400q0 111 43 211.5t115 173t172.5 116T1151 1056q119 0 228-51q41-18 72 13t13 72"/>
                 </svg>
                 <span class="toggle-text">Dark</span>
               </div>
-              <div class="toggle-sun" title="ライトモードに変更" role="button" aria-label="ライトモードに変更">
+              <div class="toggle-sun" title="{% if page.lang == 'en' %}Switch to light mode{% else %}ライトモードに変更{% endif %}" role="button" aria-label="{% if page.lang == 'en' %}Switch to light mode{% else %}ライトモードに変更{% endif %}">
                 <svg width="15" height="15" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
                   <g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="4">
                     <path stroke-linecap="round" d="m9.15 9.15l2.228 2.228M3 24h3.15m3 14.85l2.228-2.228M38.85 38.85l-2.228-2.228M45 24h-3.15m-3-14.85l-2.228 2.228M24 3v3.15"/>
@@ -64,8 +81,8 @@
             {% elsif site.data.settings.color_scheme == "light" or site.data.settings.color_scheme == "dark" %}
             {% else %}
             <div class="toggle-theme">
-              <div class="toggle-moon" title="ダークモードに変更" role=""button" aria-label="ダークモードに変更"><i class="ion ion-ios-moon"></i></div>
-              <div class="toggle-sun" title="ライトモードに変更" role="button" aria-label="ライトモードに変更"><i class="ion ion-ios-sunny"></i></div>
+              <div class="toggle-moon" title="{% if page.lang == 'en' %}Switch to dark mode{% else %}ダークモードに変更{% endif %}" role="button" aria-label="{% if page.lang == 'en' %}Switch to dark mode{% else %}ダークモードに変更{% endif %}"><i class="ion ion-ios-moon"></i></div>
+              <div class="toggle-sun" title="{% if page.lang == 'en' %}Switch to light mode{% else %}ライトモードに変更{% endif %}" role="button" aria-label="{% if page.lang == 'en' %}Switch to light mode{% else %}ライトモードに変更{% endif %}"><i class="ion ion-ios-sunny"></i></div>
             </div>
             {% endif %}
             {% if site.data.settings.cta_button.enable == true %}

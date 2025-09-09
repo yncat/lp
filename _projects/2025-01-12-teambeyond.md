@@ -1,4 +1,5 @@
 ---
+lang: ja
 title: 東京eスポーツフェスタ2025
 date: 2025-01-12
 label: ゲーム
