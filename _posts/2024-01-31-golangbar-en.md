@@ -5,7 +5,6 @@ date: 2024-01-31
 label: Development
 image: /images/cats_in_a_bar.png
 image_alt: A brown tabby cat sitting at a bar counter, drinking a blue cocktail with a straw. In the background, several other cats are sitting in soft lighting.
-featured:
 ---
 
 I had the opportunity to speak at an engineering event called [Goと歩むキャリアを考える Go-lang Career Bar](https://forkwell.connpass.com/event/305831/) as a freee employee. In my main job, I primarily use the Go language for product development, and we had passionate discussions about the behind-the-scenes work and the relationship between Go language and career development.
