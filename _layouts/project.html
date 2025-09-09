@@ -40,8 +40,13 @@ layout: default
   <section class="section section-related">
     <div class="section__info section__info__center">
       <div class="section__head">
+        {% if page.lang == 'en' %}
+        <span class="section__intro">I'm involved in various other activities</span>
+        <h2 class="section__title">See More</h2>
+        {% else %}
         <span class="section__intro">このほかにも色々活動してます</span>
         <h2 class="section__title">もっと見る</h2>
+        {% endif %}
       </div>
     </div>
 
