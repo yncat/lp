@@ -122,6 +122,14 @@ blog:
   blog_title: 最新ブログ投稿
   blog_title_en: Latest Blog Posts
 
+#-------------------------------
+# Related Posts Section Settings
+related_posts:
+  related_posts_intro: Related Posts
+  related_posts_intro_en: Related Posts
+  related_posts_title: 読み逃した記事はありませんか
+  related_posts_title_en: In case you missed it
+
 
 #-------------------------------
 # Author Section Settings
