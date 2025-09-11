@@ -6,7 +6,7 @@
   {% assign sameTagCount = 0 %}
   {% assign commonTags = '' %}
   {% for tag in post.tags %}
-    {% if post.url != page.url %}
+    {% if post.url != page.url and post.lang == page.lang %}
       {% if page.tags contains tag %}
         {% assign sameTagCount = sameTagCount | plus: 1 %}
       {% endif %}
@@ -32,7 +32,7 @@
       {% assign commonTags = '' %}
 
       {% for tag in post.tags %}
-        {% if post.url != page.url %}
+        {% if post.url != page.url and post.lang == page.lang %}
           {% if page.tags contains tag %}
             {% assign sameTagCount = sameTagCount | plus: 1 %}
             {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
