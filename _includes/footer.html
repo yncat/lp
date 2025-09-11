@@ -42,7 +42,11 @@
                 <ul class="footer__social__list list-reset">
                   {% for social in site.data.settings.social %}
                   <li class="footer__social__item">
-                    <a class="footer__social__link" href="{{ social.link }}" target="_blank" rel="noopener" aria-label="{{ social.name }}"><i class="{{ social.icon }}"></i></a>
+                    {% if page.lang == 'en' and social.link_en %}
+                      <a class="footer__social__link" href="{{ social.link_en }}" target="_blank" rel="noopener" aria-label="{{ social.name }}"><i class="{{ social.icon }}"></i></a>
+                    {% else %}
+                      <a class="footer__social__link" href="{{ social.link }}" target="_blank" rel="noopener" aria-label="{{ social.name }}"><i class="{{ social.icon }}"></i></a>
+                    {% endif %}
                   </li>
                   {% endfor %}
                 </ul>
