@@ -10,6 +10,8 @@ lang: en
 
 | Original title | Translated title |
 |---|---|
+| [Switch2の初期設定に全盲ゲーマーが挑戦。設定後遊んだ『十三機兵防衛圏』は開発者の細かなこだわりで画面が見えなくてもクリアーできるゲームに - ゲーム・エンタメ最新情報のファミ通.com](https://www.famitsu.com/article/202510/55150) | A blind gamer challenges Switch 2 initial setup. After setup, he played "13 Sentinels: Aegis Rim" which was clearable even without seeing the screen thanks to the developers' attention to detail |
+| [エンジニアキャリア対談：できることを言語化する、思考の限界を尽くす。 - 株式会社LuminiScape【公式】](https://note.com/luminiscape/n/ne3bf8ec66130?app_launch=false) | Engineer career discussion: Verbalizing what you can do, pushing the limits of thinking |
 | [「スイッチ2」テキスト読み上げ機能が初期設定時に使えない…全盲ゲーマーが感じた"つまずき"と任天堂への訴え - Game*Spark](https://www.gamespark.jp/article/2025/07/05/154732.html) | "Switch 2" text-to-speech function unavailable during initial setup... A blind gamer's concerns and appeal to Nintendo |
 | [Nintendo Switch 2の初期設定時に音声読み上げを利用できないことに関して任天堂に送られた要望の全文が公開される - GIGAZINE](https://gigazine.net/news/20250704-nintendo-switch-2-accessibility/) | Full text of accessibility request sent to Nintendo regarding voice-over unavailability during Nintendo Switch 2 initial setup |
 

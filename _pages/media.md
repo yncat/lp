@@ -7,6 +7,10 @@ permalink: /media/
 
 ## 2025年
 
+[Switch2の初期設定に全盲ゲーマーが挑戦。設定後遊んだ『十三機兵防衛圏』は開発者の細かなこだわりで画面が見えなくてもクリアーできるゲームに - ゲーム・エンタメ最新情報のファミ通.com](https://www.famitsu.com/article/202510/55150)
+
+[エンジニアキャリア対談：できることを言語化する、思考の限界を尽くす。 - 株式会社LuminiScape【公式】](https://note.com/luminiscape/n/ne3bf8ec66130?app_launch=false)
+
 [「スイッチ2」テキスト読み上げ機能が初期設定時に使えない…全盲ゲーマーが感じた“つまずき”と任天堂への訴え - Game*Spark - 国内・海外ゲーム情報サイト](https://www.gamespark.jp/article/2025/07/05/154732.html)
 
 [Nintendo Switch 2の初期設定時に音声読み上げを利用できないことに関して任天堂に送られた要望の全文が公開される - GIGAZINE](https://gigazine.net/news/20250704-nintendo-switch-2-accessibility/)
