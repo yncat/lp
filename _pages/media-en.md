@@ -6,6 +6,12 @@ permalink: /en/media/
 lang: en
 ---
 
+## 2026
+
+| Original title | Translated title |
+|---|---|
+| [「補助輪」を外し、一人のプロとして疾走する。全盲のエンジニアがfreeeで見つけた、属性を越えた「評価」と「キャリア」【前編】](https://jobs.freee.co.jp/recruitblog/newgrads/freee-engineering-cat/) | Removing the "training wheels" and racing as a solo professional. The "evaluation" and "career" beyond attributes found by a blind engineer at freee [Part 1] |
+
 ## 2025
 
 | Original title | Translated title |
