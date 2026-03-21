@@ -7,6 +7,8 @@ permalink: /media/
 
 ## 2026年
 
+[「消してくれる君」から「銀行1,000件対応」まで。技術的負債を仕組みで解き、お祭りで価値を届けるfreeeカード開発の醍醐味【後編】](https://jobs.freee.co.jp/recruitblog/newgrads/engineer_interview/)
+
 [「補助輪」を外し、一人のプロとして疾走する。全盲のエンジニアがfreeeで見つけた、属性を越えた「評価」と「キャリア」【前編】](https://jobs.freee.co.jp/recruitblog/newgrads/freee-engineering-cat/)
 
 ## 2025年

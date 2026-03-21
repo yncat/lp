@@ -10,6 +10,7 @@ lang: en
 
 | Original title | Translated title |
 |---|---|
+| [「消してくれる君」から「銀行1,000件対応」まで。技術的負債を仕組みで解き、お祭りで価値を届けるfreeeカード開発の醍醐味【後編】](https://jobs.freee.co.jp/recruitblog/newgrads/engineer_interview/) | From "Delete command" to "supporting 1,000 banks." The joy of freee card development that solves technical debt through systems and delivers value [Part 2] |
 | [「補助輪」を外し、一人のプロとして疾走する。全盲のエンジニアがfreeeで見つけた、属性を越えた「評価」と「キャリア」【前編】](https://jobs.freee.co.jp/recruitblog/newgrads/freee-engineering-cat/) | Removing the "training wheels" and racing as a solo professional. The "evaluation" and "career" beyond attributes found by a blind engineer at freee [Part 1] |
 
 ## 2025
