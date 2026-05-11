@@ -49,3 +49,4 @@ Active since: 2008 - Present
 * 2025: Exhibited at Osaka Expo for a limited time as Audio Game Center.
 * 2025: Appointed as Engineering Manager, taking on a leadership role. Despite the urge to code being irrepressible, I continue living as a playing manager who also writes code.
 * 2025: Received company recognition for fast-paced development leadership.
+* 2026: As Audio Game Center, hosted an audio game hackathon titled "ComoNe Program #02" at Nagoya University.
